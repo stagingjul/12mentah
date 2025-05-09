@@ -1,0 +1,164 @@
+{
+  "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
+  "resources/clients/components/app-content.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/app-logo-icon.tsx": [
+    "/build/assets/app-logo-icon-C3md9RLq.js"
+  ],
+  "resources/clients/components/app-logo.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/app-shell.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/app-sidebar-header.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/app-sidebar.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/appearance-tabs.tsx": [
+    "/build/assets/appearance-CSnXz9Uh.js"
+  ],
+  "resources/clients/components/breadcrumbs.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/delete-user.tsx": [
+    "/build/assets/profile-D3F_YMF2.js"
+  ],
+  "resources/clients/components/heading-small.tsx": [
+    "/build/assets/layout-Be2EkmW0.js"
+  ],
+  "resources/clients/components/heading.tsx": [
+    "/build/assets/layout-Be2EkmW0.js"
+  ],
+  "resources/clients/components/icon.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/input-error.tsx": [
+    "/build/assets/label-BreugeMW.js"
+  ],
+  "resources/clients/components/nav-footer.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/nav-main.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/nav-user.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/text-link.tsx": [
+    "/build/assets/text-link-MURpqApF.js"
+  ],
+  "resources/clients/components/ui/avatar.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/ui/breadcrumb.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/ui/button.tsx": [
+    "/build/assets/app-logo-icon-C3md9RLq.js"
+  ],
+  "resources/clients/components/ui/checkbox.tsx": [
+    "/build/assets/login-Cr-DQiDP.js"
+  ],
+  "resources/clients/components/ui/dialog.tsx": [
+    "/build/assets/profile-D3F_YMF2.js"
+  ],
+  "resources/clients/components/ui/dropdown-menu.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/ui/input.tsx": [
+    "/build/assets/label-BreugeMW.js"
+  ],
+  "resources/clients/components/ui/label.tsx": [
+    "/build/assets/label-BreugeMW.js"
+  ],
+  "resources/clients/components/ui/placeholder-pattern.tsx": [
+    "/build/assets/dashboard-BApdfpnz.js"
+  ],
+  "resources/clients/components/ui/separator.tsx": [
+    "/build/assets/layout-Be2EkmW0.js"
+  ],
+  "resources/clients/components/ui/sheet.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/ui/sidebar.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/ui/tooltip.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/user-info.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/components/user-menu-content.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/hooks/use-appearance.tsx": [
+    "/build/assets/appearance-CSnXz9Uh.js"
+  ],
+  "resources/clients/hooks/use-initials.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/hooks/use-mobile-navigation.ts": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/hooks/use-mobile.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/layouts/app-layout.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/layouts/app/app-sidebar-layout.tsx": [
+    "/build/assets/app-layout-CjiCg5zp.js"
+  ],
+  "resources/clients/layouts/auth-layout.tsx": [
+    "/build/assets/auth-layout-BS6KLUtT.js"
+  ],
+  "resources/clients/layouts/auth/auth-simple-layout.tsx": [
+    "/build/assets/auth-layout-BS6KLUtT.js"
+  ],
+  "resources/clients/layouts/settings/layout.tsx": [
+    "/build/assets/layout-Be2EkmW0.js"
+  ],
+  "resources/clients/lib/utils.ts": [
+    "/build/assets/app-logo-icon-C3md9RLq.js"
+  ],
+  "resources/clients/pages/auth/confirm-password.tsx": [
+    "/build/assets/confirm-password-fqRAuTRa.js"
+  ],
+  "resources/clients/pages/auth/forgot-password.tsx": [
+    "/build/assets/forgot-password-N11jvbXE.js"
+  ],
+  "resources/clients/pages/auth/login.tsx": [
+    "/build/assets/login-Cr-DQiDP.js"
+  ],
+  "resources/clients/pages/auth/register.tsx": [
+    "/build/assets/register-Dbid4Ev1.js"
+  ],
+  "resources/clients/pages/auth/reset-password.tsx": [
+    "/build/assets/reset-password-CU6Cp2Vt.js"
+  ],
+  "resources/clients/pages/auth/verify-email.tsx": [
+    "/build/assets/verify-email-DqCncAhY.js"
+  ],
+  "resources/clients/pages/dashboard.tsx": [
+    "/build/assets/dashboard-BApdfpnz.js"
+  ],
+  "resources/clients/pages/settings/appearance.tsx": [
+    "/build/assets/appearance-CSnXz9Uh.js"
+  ],
+  "resources/clients/pages/settings/password.tsx": [
+    "/build/assets/password-DxvsB5c9.js"
+  ],
+  "resources/clients/pages/settings/profile.tsx": [
+    "/build/assets/profile-D3F_YMF2.js"
+  ],
+  "resources/clients/pages/welcome.tsx": [
+    "/build/assets/welcome-2JObkd8G.js"
+  ],
+  "resources/clients/ssr.tsx": [],
+  "vendor/tightenco/ziggy/dist/index.js": []
+}
