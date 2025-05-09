@@ -1,0 +1,49 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "align_multiline_comment": {
+            "comment_type": "phpdocs_like"
+        },
+        "binary_operator_spaces": {
+            "default": "single_space",
+            "operators": {
+                "=": "align_single_space_minimal",
+                "=>": "align_single_space_minimal"
+            }
+        },
+        "combine_consecutive_issets": true,
+        "combine_consecutive_unsets": true,
+        "concat_space": {
+            "spacing": "one"
+        },
+        "elseif": true,
+        "multiline_comment_opening_closing": true,
+        "no_empty_comment": true,
+        "no_extra_blank_lines": {
+            "tokens": [
+                "attribute",
+                "break",
+                "case",
+                "continue",
+                "curly_brace_block",
+                "default",
+                "extra",
+                "parenthesis_brace_block",
+                "return",
+                "square_brace_block",
+                "switch",
+                "throw",
+                "use",
+                "use_trait"
+            ]
+        },
+        "no_leading_namespace_whitespace": true,
+        "no_unused_imports": true,
+        "phpdoc_align": {
+            "align": "vertical"
+        },
+        "phpdoc_array_type": true,
+        "phpdoc_param_order": true,
+        "set_type_to_cast": true
+    }
+}

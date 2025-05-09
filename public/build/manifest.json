@@ -1,0 +1,285 @@
+{
+  "_app-layout-DLCs4bpW.js": {
+    "file": "assets/app-layout-DLCs4bpW.js",
+    "name": "app-layout",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js",
+      "_index-BBVckb_c.js",
+      "_index-BOojHgcm.js"
+    ]
+  },
+  "_app-logo-icon-iErQt1jT.js": {
+    "file": "assets/app-logo-icon-iErQt1jT.js",
+    "name": "app-logo-icon",
+    "imports": [
+      "resources/clients/app.tsx"
+    ]
+  },
+  "_auth-layout-BILLulOG.js": {
+    "file": "assets/auth-layout-BILLulOG.js",
+    "name": "auth-layout",
+    "imports": [
+      "_app-logo-icon-iErQt1jT.js",
+      "resources/clients/app.tsx"
+    ]
+  },
+  "_index-BBVckb_c.js": {
+    "file": "assets/index-BBVckb_c.js",
+    "name": "index",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js"
+    ]
+  },
+  "_index-BOojHgcm.js": {
+    "file": "assets/index-BOojHgcm.js",
+    "name": "index",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js"
+    ]
+  },
+  "_label-BE4hgaPf.js": {
+    "file": "assets/label-BE4hgaPf.js",
+    "name": "label",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js",
+      "_index-BOojHgcm.js"
+    ]
+  },
+  "_layout-BHsvimC-.js": {
+    "file": "assets/layout-BHsvimC-.js",
+    "name": "layout",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js",
+      "_index-BOojHgcm.js"
+    ]
+  },
+  "_text-link-DKT8Cgri.js": {
+    "file": "assets/text-link-DKT8Cgri.js",
+    "name": "text-link",
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js"
+    ]
+  },
+  "_transition-BcLM7YWf.js": {
+    "file": "assets/transition-BcLM7YWf.js",
+    "name": "transition",
+    "imports": [
+      "resources/clients/app.tsx"
+    ]
+  },
+  "resources/clients/app.tsx": {
+    "file": "assets/app-CjlN3Utr.js",
+    "name": "app",
+    "src": "resources/clients/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/clients/pages/auth/confirm-password.tsx",
+      "resources/clients/pages/auth/forgot-password.tsx",
+      "resources/clients/pages/auth/login.tsx",
+      "resources/clients/pages/auth/register.tsx",
+      "resources/clients/pages/auth/reset-password.tsx",
+      "resources/clients/pages/auth/verify-email.tsx",
+      "resources/clients/pages/dashboard.tsx",
+      "resources/clients/pages/settings/appearance.tsx",
+      "resources/clients/pages/settings/password.tsx",
+      "resources/clients/pages/settings/profile.tsx",
+      "resources/clients/pages/welcome.tsx"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/assets/style/tailwind.css": {
+    "file": "assets/tailwind-B840-C9g.css",
+    "src": "resources/clients/assets/style/tailwind.css",
+    "isEntry": true
+  },
+  "resources/clients/pages/auth/confirm-password.tsx": {
+    "file": "assets/confirm-password-De0RH1-t.js",
+    "name": "confirm-password",
+    "src": "resources/clients/pages/auth/confirm-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_label-BE4hgaPf.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_auth-layout-BILLulOG.js",
+      "_index-BOojHgcm.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/auth/forgot-password.tsx": {
+    "file": "assets/forgot-password-DBa6SvfA.js",
+    "name": "forgot-password",
+    "src": "resources/clients/pages/auth/forgot-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_label-BE4hgaPf.js",
+      "_text-link-DKT8Cgri.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_auth-layout-BILLulOG.js",
+      "_index-BOojHgcm.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/auth/login.tsx": {
+    "file": "assets/login-QeL4f9hH.js",
+    "name": "login",
+    "src": "resources/clients/pages/auth/login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_label-BE4hgaPf.js",
+      "_text-link-DKT8Cgri.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_index-BBVckb_c.js",
+      "_index-BOojHgcm.js",
+      "_auth-layout-BILLulOG.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/auth/register.tsx": {
+    "file": "assets/register-7G0qXoTb.js",
+    "name": "register",
+    "src": "resources/clients/pages/auth/register.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_label-BE4hgaPf.js",
+      "_text-link-DKT8Cgri.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_auth-layout-BILLulOG.js",
+      "_index-BOojHgcm.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/auth/reset-password.tsx": {
+    "file": "assets/reset-password-Z2r9t7YE.js",
+    "name": "reset-password",
+    "src": "resources/clients/pages/auth/reset-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_label-BE4hgaPf.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_auth-layout-BILLulOG.js",
+      "_index-BOojHgcm.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/auth/verify-email.tsx": {
+    "file": "assets/verify-email-s49MwlSs.js",
+    "name": "verify-email",
+    "src": "resources/clients/pages/auth/verify-email.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_text-link-DKT8Cgri.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_auth-layout-BILLulOG.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/dashboard.tsx": {
+    "file": "assets/dashboard-DWxkDGGw.js",
+    "name": "dashboard",
+    "src": "resources/clients/pages/dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-layout-DLCs4bpW.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_index-BBVckb_c.js",
+      "_index-BOojHgcm.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/settings/appearance.tsx": {
+    "file": "assets/appearance-CZm6Z7rU.js",
+    "name": "appearance",
+    "src": "resources/clients/pages/settings/appearance.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_app-logo-icon-iErQt1jT.js",
+      "_layout-BHsvimC-.js",
+      "_app-layout-DLCs4bpW.js",
+      "_index-BOojHgcm.js",
+      "_index-BBVckb_c.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/settings/password.tsx": {
+    "file": "assets/password-CQoafaZg.js",
+    "name": "password",
+    "src": "resources/clients/pages/settings/password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_layout-BHsvimC-.js",
+      "_label-BE4hgaPf.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_app-layout-DLCs4bpW.js",
+      "_transition-BcLM7YWf.js",
+      "_index-BOojHgcm.js",
+      "_index-BBVckb_c.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/settings/profile.tsx": {
+    "file": "assets/profile-VHR8dotI.js",
+    "name": "profile",
+    "src": "resources/clients/pages/settings/profile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx",
+      "_layout-BHsvimC-.js",
+      "_label-BE4hgaPf.js",
+      "_app-logo-icon-iErQt1jT.js",
+      "_app-layout-DLCs4bpW.js",
+      "_transition-BcLM7YWf.js",
+      "_index-BOojHgcm.js",
+      "_index-BBVckb_c.js"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  },
+  "resources/clients/pages/welcome.tsx": {
+    "file": "assets/welcome-DmCatSgj.js",
+    "name": "welcome",
+    "src": "resources/clients/pages/welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/clients/app.tsx"
+    ],
+    "css": [
+      "assets/tailwind-B840-C9g.css"
+    ]
+  }
+}
